@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react-my",
+  "version": "1.0.0",
+  "description": "this is live course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sachin-Dabgar/NamasteReact.git"
+  },
+  "author": "Sachin Dabgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachin-Dabgar/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/Sachin-Dabgar/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
